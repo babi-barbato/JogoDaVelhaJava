@@ -22,9 +22,15 @@ O Jogo da Velha é um jogo clássico de estratégia para dois jogadores. O tabul
 
 2. Navegue até o diretório do projeto.
 
+    ```bash
+    cd JogoDaVelhaJava\JogoDaVelha\src\main\java\org\example
+    ```
 
-3. Execute o jogo.
+3. Execute a classe Main.
 
+   ```
+    main
+   ```
 
 4. Siga as instruções no console para realizar os movimentos.
 
