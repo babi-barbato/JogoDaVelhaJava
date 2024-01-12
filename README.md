@@ -30,11 +30,11 @@ O Jogo da Velha é um jogo clássico de estratégia para dois jogadores. O tabul
 
 3. Execute a classe Main.
    
-<img src="img/runMain.png">
+    <img src="img/runMain.png">
 
 4. Siga as instruções no console para realizar os movimentos.
 
-<img src="img/Jogo.png">
+    <img src="img/Jogo.png">
 
 ## Autora
 
