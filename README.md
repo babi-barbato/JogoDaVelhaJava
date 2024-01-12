@@ -17,7 +17,7 @@ O Jogo da Velha é um jogo clássico de estratégia para dois jogadores. O tabul
 1. Clone este repositório em seu computador.
 
     ```bash
-    git clone https://github.com/seu-usuario/JogoDaVelha.git](https://github.com/babi-barbato/JogoDaVelhaJava.git
+    git clone https://github.com/babi-barbato/JogoDaVelhaJava.git
     ```
 
 2. Navegue até o diretório do projeto e abra em uma IDE.
