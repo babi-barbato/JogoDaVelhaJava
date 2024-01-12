@@ -33,7 +33,8 @@ O Jogo da Velha é um jogo clássico de estratégia para dois jogadores. O tabul
    ```
 
 4. Siga as instruções no console para realizar os movimentos.
-
+img/Jogo.png
+<img src="img/Jogo.png" alt="java" width="40" height="40">
 ## Autora
 
 Bárbara Barbato de Oliveira
