@@ -26,15 +26,16 @@ O Jogo da Velha é um jogo clássico de estratégia para dois jogadores. O tabul
     cd JogoDaVelhaJava
     ```
 
-3. Execute a classe Main.
+    <img src="img/caminho.png">
 
-   ```
-    main
-   ```
+3. Execute a classe Main.
+   
+<img src="img/runMain.png">
 
 4. Siga as instruções no console para realizar os movimentos.
-img/Jogo.png
-<img src="img/Jogo.png" alt="java" width="40" height="40">
+
+<img src="img/Jogo.png">
+
 ## Autora
 
 Bárbara Barbato de Oliveira
