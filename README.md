@@ -20,10 +20,10 @@ O Jogo da Velha é um jogo clássico de estratégia para dois jogadores. O tabul
     git clone https://github.com/seu-usuario/JogoDaVelha.git](https://github.com/babi-barbato/JogoDaVelhaJava.git
     ```
 
-2. Navegue até o diretório do projeto.
+2. Navegue até o diretório do projeto e abra em uma IDE.
 
     ```bash
-    cd JogoDaVelhaJava\JogoDaVelha\src\main\java\org\example
+    cd JogoDaVelhaJava
     ```
 
 3. Execute a classe Main.
